@@ -9,10 +9,7 @@ AureesSetup-其它工具类资源-CSDN下载
 CSDN技术社区 - 百度快照
 Aurees_闪电下载吧_绿色免费软件下载网站
 2018年3月8日 - (Aurees客户端)是一款由Nezaboodka Software Ltd专门针对Git平台设计开发的文件管理工具,软件为用户提供简化的环境,你可以非常方便的从桌面直接查看、...
-https://www.sdbeta.com/tags/Au...  - 百度快照
-Aurees 64位最新版-Aurees 64位破解版下载 18.3.6 正式版-第七下载
-2018年3月8日 - Aurees 64位破解版是一个实用的Git客户端,为你提供简化的环境,以便从桌面查看,编辑和发布Git文件。这款应用程序可以快速轻松地安装,使用此工具,需要用...
-https://www.7down.com/soft/253...  - 百度快照
+
 Aurees - Easy · Fast · Productive Git client for Win&Mac |...
 Access and manage your Git repositories from a clean user interface with a full-fledged integrated diff. Aurees Git Client is a streamlined git client ...
 https://www.startupranking.com...  - 百度快照 - 翻译此页
@@ -20,3 +17,6 @@ https://www.startupranking.com...  - 百度快照 - 翻译此页
 rees		exonerees		free
 trustees		rees harp		reestablish
 reesy		address		torres
+
+
+Aurees是一个实用的Git客户端，为你提供简化的环境，以便从桌面查看，编辑和发布Git文件。这款应用程序可以快速轻松地安装，使用此工具，需要用到GitHub帐户登录。如果你有现成的存储库可以从文件中添加。否则，只需指定存储库的URL，然后将它们下载到磁盘的任何位置。
